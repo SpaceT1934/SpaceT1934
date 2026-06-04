@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zia+Jan+%F0%9F%91%8B;%E6%8E%A2%E7%B4%A2%E6%9C%AA%E7%9F%A5%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%A0%E9%99%90%E5%8F%AF%E8%83%BD" />
 
+  <p><i>Exploring the infinite possibilities of the unknown.</i></p>
+
 </div>
 
 ---
