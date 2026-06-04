@@ -10,13 +10,23 @@
 
 写代码，也画图纸。在比特和原子之间游走，觉得机器人是这世界上最浪漫的东西 — 给冰冷的金属注入灵魂，让它动起来，和世界对话。
 
+*I write code and draw blueprints, wandering between bits and atoms. I think robots are the most romantic thing in the world — breathing a soul into cold metal, making it move, letting it talk to the world.*
+
 都喜欢玩一点，从 PCB 画到 Solidworks，从写前端到强化学习。喜欢把想象变成能摸得着的实物，体验 Hackathon 里从 0 到 1 的快感。
+
+*I dabble in everything — from PCB design to Solidworks, from frontend to reinforcement learning. I love turning imagination into something you can touch, and chasing that 0-to-1 rush in a Hackathon.*
 
 做过电路，训练过模型。偶尔开 Blender 渲染几张图，或者逛 Hugging Face 看看又有什么新玩具。
 
+*Wired circuits, trained models. Sometimes I fire up Blender for a render, or scroll through Hugging Face to see what's new.*
+
 最近才喜欢开源！
 
+*Recently fallen in love with open source.*
+
 > **机器和人之间，最好的关系应该是什么样子。**
+>
+> *What's the best relationship between humans and machines?*
 
 ---
 
@@ -76,21 +86,11 @@
 | 🤖 | 🌊 | 🤝 | 🏭 |
 |:--:|:--:|:--:|:--:|
 | 机械臂 | 仿生机器人 | Agent | 机器人 |
+| Robotic Arm | Bionic Robot | AI Agent | Quadruped |
 
-> *让机械臂看懂世界 · 造像乌贼一样游的机器人 · 天上和水面聊天协作 · 在地面里走来走去*
-
----
-
-### 📊
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SpaceT1934&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceT1934&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SpaceT1934&theme=radical&hide_border=true&bg_color=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</div>
+> *让机器看懂世界 · 造像鱼一样游的机器人 · 去看卡门线以外的风景 · 在大地上走来走去*
+>
+> *Teach machines to see · Build robots that swim like fish · Reach beyond the Kármán line · Walk across the earth*
 
 ---
 
@@ -99,6 +99,8 @@
 ### 📫
 
 聊聊科技或者是艺术 — 都行。
+
+*Talk about tech or art — either way, I'm in.*
 
 <img src="https://komarev.com/ghpvc/?username=SpaceT1934&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" />
 
