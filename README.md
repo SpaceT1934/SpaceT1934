@@ -100,7 +100,6 @@
 
 *Talk about tech or art — either way, I'm in.*
 
-<img src="https://komarev.com/ghpvc/?username=SpaceT1934&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
