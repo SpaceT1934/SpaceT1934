@@ -22,13 +22,9 @@
 
 *Wired circuits, trained models. Sometimes I fire up Blender for a render, or scroll through Hugging Face to see what's new.*
 
-最近才喜欢开源！
-
-*Recently fallen in love with open source.*
-
 > **需要去探索更大的世界！**
 >
-> *What's the best relationship between humans and machines?*
+> *We need to explore a bigger world!*
 
 ---
 
