@@ -14,9 +14,9 @@
 
 *I work on AI, robotics, and interactive systems, with an interest in the full loop from perception and decision-making to execution.*
 
-项目经验覆盖 PCB、机械设计、前端开发和强化学习。我喜欢快速验证想法，并把软件、硬件和交互整合成可以运行的原型。
+项目经验覆盖设计、软件、硬件、机械和算法。我喜欢快速验证想法，并把不同领域的能力整合成可以运行的原型。
 
-*My projects span PCB design, mechanical design, frontend development, and reinforcement learning. I enjoy rapid prototyping and combining software, hardware, and interaction into working systems.*
+*My projects span design, software, hardware, mechanical engineering, and algorithms. I enjoy rapid prototyping and combining skills from different fields into working systems.*
 
 我也会使用 Blender、Hugging Face 等工具，持续关注生成式 AI、机器人学习和虚拟世界等方向。
 
