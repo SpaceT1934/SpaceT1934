@@ -26,7 +26,7 @@
 
 *Recently fallen in love with open source.*
 
-> **机器和人之间，最好的关系应该是什么样子。**
+> **需要去探索更大的世界！**
 >
 > *What's the best relationship between humans and machines?*
 
@@ -87,8 +87,8 @@
 
 | 🤖 | 🌊 | 🤝 | 🏭 |
 |:--:|:--:|:--:|:--:|
-| 机械臂 | 仿生机器人 | Agent | 机器人 |
-| Robotic Arm | Bionic Robot | AI Agent | Quadruped |
+| 虚拟世界 | 仿生机器人 | Agent | 机器人 |
+| Virtual World | Bionic Robot | AI Agent | Quadruped |
 
 > *让机器看懂世界 · 造像鱼一样游的机器人 · 去看卡门线以外的风景 · 在大地上走来走去*
 >
