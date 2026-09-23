@@ -10,17 +10,17 @@
 
 ### 🌌
 
-写代码，也画图纸。在比特和原子之间游走，觉得机器人是这世界上最浪漫的东西 — 给冰冷的金属注入灵魂，让它动起来，和世界对话。
+主要关注 AI、机器人与交互式系统开发，关注从感知、决策到执行的完整链路。
 
-*I write code and draw blueprints, wandering between bits and atoms. I think robots are the most romantic thing in the world — breathing a soul into cold metal, making it move, letting it talk to the world.*
+*I work on AI, robotics, and interactive systems, with an interest in the full loop from perception and decision-making to execution.*
 
-都喜欢玩一点，从 PCB 画到 Solidworks，从写前端到强化学习。喜欢把想象变成能摸得着的实物，体验 Hackathon 里从 0 到 1 的快感。
+项目经验覆盖 PCB、机械设计、前端开发和强化学习。我喜欢快速验证想法，并把软件、硬件和交互整合成可以运行的原型。
 
-*I dabble in everything — from PCB design to Solidworks, from frontend to reinforcement learning. I love turning imagination into something you can touch, and chasing that 0-to-1 rush in a Hackathon.*
+*My projects span PCB design, mechanical design, frontend development, and reinforcement learning. I enjoy rapid prototyping and combining software, hardware, and interaction into working systems.*
 
-做过电路，训练过模型。偶尔开 Blender 渲染几张图，或者逛 Hugging Face 看看又有什么新玩具。
+我也会使用 Blender、Hugging Face 等工具，持续关注生成式 AI、机器人学习和虚拟世界等方向。
 
-*Wired circuits, trained models. Sometimes I fire up Blender for a render, or scroll through Hugging Face to see what's new.*
+*I also use tools such as Blender and Hugging Face, and continue to explore generative AI, robot learning, and virtual worlds.*
 
 > **需要去探索更大的世界！**
 >
